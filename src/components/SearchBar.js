@@ -28,6 +28,7 @@ const styles = StyleSheet.create({
     height: 50,
     flexDirection: "row",
     marginTop: 10,
+    marginBottom: 10,
   },
   inputStyle: {
     fontSize: 18,
